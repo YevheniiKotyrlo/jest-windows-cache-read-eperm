@@ -1,0 +1,7 @@
+{
+  "name": "jest-windows-cache-read-eperm-repro",
+  "private": true,
+  "devDependencies": {
+    "jest": "30.5.2"
+  }
+}
